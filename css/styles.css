@@ -1,0 +1,11 @@
+body {
+    position: relative;
+}
+
+div {
+    top: 0;
+    left: 0px;
+    width: 100vh;
+    height: 100vh;
+    background-color: beige;
+}
